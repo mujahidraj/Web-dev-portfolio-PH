@@ -1,0 +1,41 @@
+Module-6 : Build a beautiful portfolio website 
+
+	6.1. Module Introduction, Project Overview And Git Setup
+		
+		here we learn about the how figma work. how to import figma files in the figma website . again we learn about the GitHub repository and how 		to gain connection with the GitHub and there using command and also how to clone a repository . 
+
+	6.2. Set Google Fonts And Set Navbar And Primary Color
+
+		here we learn about the font selection . how we can use our font . from where we can get our font . it is better to get font from the google 		font . there is a many option to get font from the google font . but usually we will use the embedded code or we can use the imported code 		for the css file . again we learn about the span tag . how to use that tags . another thing is how to  write code through the visual code 		editor.
+
+	6.3. Navbar alinment and use of flex
+
+		here we learn about the nav bar . and we style the nav bar . first of all we have done some of the styling in the whole page . we have done 		another important thing in the css era is Flex . we have seen that we use so much of flex property . so in this module we learn about the 		style of a nav with flex.
+
+	6.4. Banner Content And Portfolio Image Using Flex
+
+		here we learn about the css commenting . and how to use the background image . what if image repeated . in that case we can use the 			background repeat no repeat . again we can use background size for containing the background size . again we learn about how we can set 2 		backggournd image together in a single background image property and how can we fixed there size and side . 
+
+	6.5. Use Flexbox For About Info And main style
+
+		Here we learn about the emmets . and also how to manage the margins and other thing to design a things .
+
+	6.6. Technical Skills, Flex Gap And How To Apply Flex
+
+		Here we learn about how we can design a about us section with simple way . here we learn about the box shadow. x,y,blur and spread with 		color . color section should have alpha section to use the blur cause .
+
+	6.7. Resume Section Education And Experience Area
+
+		Here we learn about the resume part of the Portfolio
+
+	6.8. Style Footer contact form and style attribute
+
+		here we learn about the footer section .
+
+	6.9. Deploy to github page
+
+		here we learn about the deployment of a project from GitHub . so from the repository go to settings and then pages and then select main then 		save after sometime it will give you a link . that is the link of your deployed page .
+
+	6.10. Add icons using Font Awesome
+
+		hre we learn about the awesome font . this is an wesite wehre we can find the icon . different type of icons. so we have to sign in then we 		will get a a kit script . copy that and palce it in the head section . and then copy icon and use it .
